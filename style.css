@@ -1,0 +1,70 @@
+
+
+.title{
+    background-color: grey; 
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left:20px;
+    border-bottom: solid 5px black;
+}
+
+.list{
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+
+.back-home{
+    background-color: grey; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border-top: solid 5px black;
+}
+
+.back-home:link{
+    color: white;
+}
+.back-home:visited{
+    color:white;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    margin: 40px;
+}
+
+.square-border{
+    border: 10px solid blue;
+}
+
+.circle{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border-radius: 50%;
+    margin: 40px;
+}
+
+.circle-border{
+    border: 10px solid orange; 
+}
+
+
+.small-square{
+    width: 50%;
+    height: 50%;
+    background-color: green;
+    float: right;   
+}
+
+.square-inside{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+}
